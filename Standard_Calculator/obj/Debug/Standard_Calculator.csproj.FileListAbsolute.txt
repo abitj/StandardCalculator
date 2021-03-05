@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Standard_Calculator\Standard_Calculator\obj\Debug\Standard_Calculator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Standard_Calculator\Standard_Calculator\obj\Debug\Standard_Calculator.Form1.resources
+C:\Users\User\source\repos\Standard_Calculator\Standard_Calculator\obj\Debug\Standard_Calculator.Properties.Resources.resources
+C:\Users\User\source\repos\Standard_Calculator\Standard_Calculator\obj\Debug\Standard_Calculator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Standard_Calculator\Standard_Calculator\obj\Debug\Standard_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Standard_Calculator\Standard_Calculator\bin\Debug\Standard_Calculator.exe.config
+C:\Users\User\source\repos\Standard_Calculator\Standard_Calculator\bin\Debug\Standard_Calculator.exe
+C:\Users\User\source\repos\Standard_Calculator\Standard_Calculator\bin\Debug\Standard_Calculator.pdb
+C:\Users\User\source\repos\Standard_Calculator\Standard_Calculator\obj\Debug\Standard_Calculator.exe
+C:\Users\User\source\repos\Standard_Calculator\Standard_Calculator\obj\Debug\Standard_Calculator.pdb
